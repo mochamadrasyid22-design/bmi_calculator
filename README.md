@@ -39,7 +39,8 @@
 - Pastikan hasil BMI sesuai kategori.
 
   ## Halaman Utama
-  <img width="1917" height="966" alt="card utm" src="https://github.com/user-attachments/assets/dee15e17-515b-4fdf-9169-a12c2d6394e4" />
+  <img width="1920" height="972" alt="nature utm" src="https://github.com/user-attachments/assets/92b0fc6e-5d4a-4ac1-90d6-62e232817312" />
 
   ## Halaman Result
-  <img width="1920" height="966" alt="card" src="https://github.com/user-attachments/assets/0bd2f95f-5574-49e5-b05a-ce52ea862a46" />
+  <img width="1920" height="967" alt="nature" src="https://github.com/user-attachments/assets/2a2fe7a7-d35c-484e-96c7-d0ad7a1aa775" />
+
